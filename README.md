@@ -30,77 +30,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global computational drug discovery and AI in drug design market was valued at approximately $2.5B–$4.0B in 2024 and is projected to expand beyond $14B–$20B by the mid-2030s (registering an estimated CAGR of 20%–25%+), driven by high-throughput screening informatics, generative chemistry, and structural foundation models. The sector is **moderately fragmented yet consolidating**: while hundreds of specialized venture-backed point-solution startups and big pharma in-house teams prevent a pure "winner-take-all" monopoly, tier-1 consolidators (such as Recursion acquiring Exscientia, and Schrödinger's entrenched enterprise footprint) are establishing high-scale computational biopharma platforms.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Schrödinger](https://www.schrodinger.com/)**  
-
-  Industry-leading computational platform for molecular modeling and drug discovery. Features physics-based simulation, machine learning, and predictive analytics for lead identification and optimization. Widely used in pharmaceutical and biotechnology R&D.
-
-
-
-- **[Recursion Pharmaceuticals](https://www.recursion.com/)**  
-
-  Clinical-stage biotech combining AI with high-throughput biology. Features automated phenomics, deep learning for cellular image analysis, and digital chemistry for compound design.
-
-
-
-- **[Insilico Medicine](https://insilico.com/)**  
-
-  AI-driven drug discovery platform. Features generative chemistry (Chemistry42), target identification (PandaOmics), and clinical trial prediction. Lead candidate discovered and designed using AI reached Phase II trials.
-
-
-
-- **[Genesis Therapeutics](https://www.genesistherapeutics.ai/)**  
-
-  AI platform for drug discovery focused on molecular property prediction and generative design. Features neural network potentials and physics-based simulation.
-
-
-
-- **[Iktos](https://iktos.ai/)**  
-
-  AI-driven drug design platform. Features generative chemistry, retrosynthesis, and multi-parametric optimization for lead optimization.
-
-
-
-- **[Relay Therapeutics](https://relaytx.com/)**  
-
-  Clinical-stage biotech using computational approaches to drug discovery. Features protein dynamics simulation and AI-driven lead optimization.
-
-
-
-- **[Atomwise](https://www.atomwise.com/)**  
-
-  AI-powered virtual screening platform. Features deep learning for structure-based drug discovery and hit identification.
-
-
-
-- **[Exscientia](https://www.exscientia.ai/)**  
-
-  AI-driven precision medicine platform. Features generative design, active learning, and patient-centric drug design.
-
-
-
-- **[Owkin](https://www.owkin.com/)**  
-
-  AI platform for biomedical research and drug discovery. Features federated learning for multi-institutional data analysis and predictive biomarker discovery.
-
-
-
-- **[Valo Health](https://valohealth.com/)**  
-
-  AI-native drug discovery company. Features human data-driven target identification and generative chemistry for cardiovascular and neurodegenerative diseases.
+| Platform | Company Size (Valuation / Market Cap / Revenue) | Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Relay Therapeutics](https://relaytx.com/)** | ~$3.9B Market Cap (~$10M TTM rev) | Enterprise/partnership contracts starting at multi-million upfront collaboration licenses | Free pilot evaluation (14–30 days) upon enterprise review; no permanent free tier | Precision biotech integrating protein dynamic simulations (Motion Platform) and machine learning for allosteric drug discovery. |
+| **[Valo Health](https://valohealth.com/)** | ~$2.8B Valuation (~$100M+ partner commitments) | Institutional tier licenses & strategic alliances starting from ~$100,000/yr for pilot integration | 14-day gated trial for enterprise research evaluations upon qualification; no permanent free tier | AI-native drug discovery platform (Opal Computational Platform) powered by longitudinal human and clinical data for cardiovascular/neurodegenerative targets. |
+| **[Recursion Pharmaceuticals](https://www.recursion.com/)** | ~$2.2B Market Cap (~$55M TTM rev) | Enterprise partnership tiers; platform licenses typically start at ~$25,000–$50,000/yr for academic/biotech consortia | 14-day exploratory access to select public dataset benchmarks for vetted researchers upon approval; no permanent free tier | Clinical-stage biotech pairing industrial-scale automated phenomics with deep learning (Recursion OS) and digital chemistry for compound design. |
+| **[Schrödinger](https://www.schrodinger.com/)** | ~$2.0B Market Cap (~$256M rev) | Commercial tiers start at ~$25,000/yr (core suites); Academic licenses start at ~$7,500/yr | 14-day fully-featured evaluation license with 2 concurrent token limits; educational PyMOL free tier without expiry for full-time students/faculty | Industry gold standard platform for physics-based molecular simulation (FEP+, Desmond, Glide) and predictive ML analytics. |
+| **[Insilico Medicine](https://insilico.com/)** | ~$1.8B–$2.1B Valuation (~$56M rev) | Module subscriptions (Pharma.AI / PandaOmics / Chemistry42) starting at ~$1,500–$3,000/seat/month (~$18,000/yr) | 7-day trial of PandaOmics limited to 5 target query runs and preloaded datasets; no permanent free tier | End-to-end generative AI drug discovery engine spanning target identification, generative chemistry, and clinical trial prediction. |
+| **[Owkin](https://www.owkin.com/)** | ~$1.0B Valuation (~$10M–$50M est. rev) | Enterprise deployments starting at ~$50,000/yr for federated biomedical research nodes | Free research trial for 30 days on select open-access biomarker validation cohorts; no permanent free tier | AI platform leveraging federated learning across academic medical centers for patient-centric target discovery and biomarker analysis. |
+| **[Exscientia](https://www.exscientia.ai/)** | ~$688M Acquired Valuation (~$25M rev) | Enterprise co-development and SaaS license tiers starting at ~$20,000/quarter | 30-day proof-of-concept evaluation license for qualified academic and biotech partners; no permanent free tier | Pioneer in automated AI drug design and patient-centric precision medicine; integrated into Recursion's generative design stack. |
+| **[Genesis Therapeutics](https://www.genesistherapeutics.ai/)** | ~$430M Valuation (~$300M raised) | Multi-target partnership agreements & enterprise GEMS deployments starting at ~$50,000/yr | 14-day evaluation demo for qualified institutional partners; no permanent free tier | AI platform (GEMS) integrating neural network potentials, physics-based simulation, and generative diffusion models for undruggable targets. |
+| **[Atomwise](https://www.atomwise.com/)** | ~$423M Valuation (~$219M raised) | Enterprise AtomNet virtual screening tiers starting at ~$15,000–$25,000 per target campaign | Free tier via AIMS Awards (Artificial Intelligence Molecular Screen) granting free AI screening & physical compound sets for up to 2 academic targets | AI-powered virtual screening platform using deep learning (AtomNet) for structure-based drug discovery and hit identification. |
+| **[Iktos](https://iktos.ai/)** | ~$50M–$100M Valuation (~$16M raised) | Makya & Spaya enterprise SaaS tiers starting at ~$12,000/seat/year (~$1,000/month) | Spaya web tier free forever with limit of 1 retrosynthesis query at a time (max 3 min runtime per tree exploration, no bulk API); 14-day trial for Makya | AI-driven drug design and retrosynthesis platform specializing in generative chemistry (Makya) and retrosynthetic route planning (Spaya). |
 
 
 
